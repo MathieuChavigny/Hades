@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gemme
+  - brazero
+  - brazero1
+  - brazero2
+  - os
+  - os1
+  - os2
+  - StatueCerberus
+  - orbre1
+  - orbre
+  - gemmeVerte
+  - gemmeRouge
+  - gemmeJaune
+  - gemmeBleu
+  - tridentFait
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Perso
+  - Water
+  - UI
+  - os
+  - pointe
+  - barre
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
